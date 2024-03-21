@@ -5,3 +5,6 @@ For larger gardens, I installed two soil moisture sensors and a 4-relay module t
 INTRO:
 I implemented an innovative IoT project using the ESP32 microcontroller, equipped with a rain sensor, soil moisture sensor, temperature and humidity sensor, ultrasonic sensor for measuring tank level, and a water pump.
 The system allows remote control of water distribution through a mobile app. Real-time sensor readings, including rain, soil moisture, temperature, humidity, and tank level, are displayed on a 20x4 LCD and accessible through the mobile app.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Setup Design using Arduino Board
+![image](https://github.com/Aditya-Chopra30/Plant-Watering-System/assets/110564061/fce15def-ad0d-4c7e-afb6-8931920745bc)
